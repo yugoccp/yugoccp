@@ -10,9 +10,9 @@ I help professional Web devs to design and build robust architectures, so they c
   - Campus Party 2023
   - JavaDay 2023
   - JAX JUG 2022
-- 👾 I love to help developers with best practices
+- 🧠 I love to help developers solve problems and design new solutions
 - 🌱 I'm always learning to improve my skills and be the best person I can be!
-- 🏓 I love playing Table Tennis 
+- 🏓 I play Table Tennis for fun!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugoccp&layout=compact&theme=dracula)
 

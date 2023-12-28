@@ -1,6 +1,20 @@
 ### Hi! I'm Yugo Sakamoto 👋
 
+[![Website](https://img.shields.io/website?label=theleaderdev.com&style=for-the-badge&url=https%3A%2F%2Ftheleaderdev.com)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/ymoto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%ymoto&screen_name=elderjava)
+
 I help professional Web devs to design and build robust architectures, so they can influence on important decisions and start leading their team!
+
+### Connect with me:
+
+[<img align="left" alt="eldermoraes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="eldermoraes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="eldermoraes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="eldermoraes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+### About
 
 - 💻 I'm currently working as a Technical Manager at Accenture
 - 🤖 I'm currently interested in Generative AI solutions and architectures
@@ -14,7 +28,11 @@ I help professional Web devs to design and build robust architectures, so they c
 - 🌱 I'm always learning to improve my skills and be the best person I can be!
 - 🏓 I play Table Tennis for fun!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugoccp&layout=compact&theme=dracula)
 
-![Yugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugoccp&show_icons=true&theme=dracula)
+![Yugo's GitHub stats][stats]
 
+[stats]: https://github-readme-stats.vercel.app/api?username=yugoccp&show_icons=true
+[website]: https://theleaderdev.com
+[twitter]: https://twitter.com/ymoto
+[youtube]: https://www.youtube.com/@outoftheboxdev
+[linkedin]: https://linkedin.com/in/yugo-sakamoto

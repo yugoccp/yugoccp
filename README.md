@@ -20,8 +20,9 @@ I help professional Web devs to design and build robust architectures, so they c
 - 💻 I'm currently working as a Technical Manager at Accenture
 - 🤖 I'm currently interested in Generative AI solutions and architectures
 - 🎤 Speaker and/or coordinator at
-  - International Career Day 2023
-  - The Developer Conference 2023
+  - JConf Brasil 2024
+  - International Career Day 2024/23
+  - The Developer Conference 2024/23
   - Campus Party 2023
   - JavaDay 2023
   - JAX JUG 2022
